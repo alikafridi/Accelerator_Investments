@@ -8,7 +8,7 @@ List of the top U.S. accelerators [here](http://techcrunch.com/2015/03/17/these-
 	* Batch 9 - [Companies](http://techcrunch.com/2015/11/11/angelpad-shows-off-13-new-startups-at-sf-demo-day/)
 * Techstars
 	* Austin 2015 - [Companies](http://www.techstars.com/content/blog/techstars-austin-demo-day-2015/)
-	* Barclays 2015 - [Companies]() *Note: Accelerator focused on fin tech*
+	* Barclays 2015 - [Companies](http://www.barclaysaccelerator.com/#/companies/) - *Note: Accelerator focused on fin tech*
 	* Boston 2015 - [Companies](http://www.techstars.com/content/blog/announcing-the-boston-class-of-2015/)
 	* Boulder 2015 - [Companies](http://www.techstars.com/content/blog/announcing-the-2015-boulder-class/)
 	* Chicago 2015 - [Companies](http://www.techstars.com/content/blog/introducing-the-10-companies-for-chicago-2015-class/)
@@ -18,7 +18,7 @@ List of the top U.S. accelerators [here](http://techcrunch.com/2015/03/17/these-
 	* NYC Winter 2015 - [Companies](http://www.techstars.com/content/blog/12-companies-for-winter-2015-session-in-nyc/)
 	* NYC Fall 2015 - [Companies](http://www.techstars.com/content/blog/meet-14-new-techstars-companies-from-fall-2015-nyc-class/)
 	* Seattle 2015 - [Companies](http://www.techstars.com/content/blog/meet-the-seattle-techstars-class-of-2015/)
-	* Spring Accelerator 2015 - [Companies](http://sprintaccel.com/class-of-2015/) *Note: Accelerator focused on healthcare*
+	* Spring Accelerator 2015 - [Companies](http://sprintaccel.com/class-of-2015/) - *Note: Accelerator focused on healthcare*
 * U Chicago NVC
 	* 2015 Accelerated companies - [Companies](http://research.chicagobooth.edu/nvc/portfolio)
 * Alchemist
