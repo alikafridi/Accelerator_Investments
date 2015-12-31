@@ -20,7 +20,7 @@ List of the top U.S. accelerators [here](http://techcrunch.com/2015/03/17/these-
 	* Seattle 2015 - [Companies](http://www.techstars.com/content/blog/meet-the-seattle-techstars-class-of-2015/)
 	* Spring Accelerator 2015 - [Companies](http://sprintaccel.com/class-of-2015/) - *Note: Accelerator focused on healthcare*
 * U Chicago NVC
-	* 2015 Accelerated companies - [Companies](http://research.chicagobooth.edu/nvc/portfolio)
+	* 2015 Finalist companies - [Companies](http://research.chicagobooth.edu/nvc/portfolio)
 * Alchemist
 	* Class VIII - [Companies](http://alchemistaccelerator.com/portfolio/)
 	* Class IX - [Companies](http://alchemistaccelerator.com/portfolio/)
