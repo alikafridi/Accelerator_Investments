@@ -1,3 +1,5 @@
+List of the top U.S. accelerators [here](http://techcrunch.com/2015/03/17/these-are-the-top-20-us-accelerators/). I selected the top 10 and then added yCombinator.
+
 ## Accelerators & Batches Analyzed
 * yCombinator
 	* Winter 2015 - Companies [Part 1](http://techcrunch.com/2015/03/23/here-are-the-companies-that-presented-at-y-combinator-demo-day-day-1/), [Part 2](http://techcrunch.com/2015/03/24/y-combinator-demos/)
@@ -31,7 +33,7 @@
 	* Fall 2015 - [Companies](http://eqstl.com/meet-the-5-new-startups-accepted-into-capital-innovators-fall-class/)
 
 ### Accelerators & Batches considered but not included:
-* Angelpad Batch 8 - Accelerator started in 2014. Demo Day was in Jan, 2015
+* Angelpad Batch 8 - Accelerator started in 2014. Demo Day was on Jan, 2015
 * MuckerLab - Could not find information on companies in batches
 * Techstars Barclays Fin Tech Accelerator - The accelerator by design was focused on a single industry so was excluded.
 * StartX - Could not find information on companies in batches
