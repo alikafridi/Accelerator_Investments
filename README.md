@@ -1,36 +1,39 @@
 ## Accelerators & Batches Analyzed
 * yCombinator
-	* Winter 2015
-	* Summer 2015
+	* Winter 2015 - Companies [Part 1](http://techcrunch.com/2015/03/23/here-are-the-companies-that-presented-at-y-combinator-demo-day-day-1/), [Part 2](http://techcrunch.com/2015/03/24/y-combinator-demos/)
+	* Summer 2015 - Companies [Part 1](http://techcrunch.com/2015/08/18/hardware-demo-day/), [Part 2](http://techcrunch.com/2015/08/19/here-are-the-52-startups-that-launched-at-y-combinator-summer-2015-demo-day-2/)
 * Angelpad
-	* Batch 9
+	* Batch 9 - [Companies](http://techcrunch.com/2015/11/11/angelpad-shows-off-13-new-startups-at-sf-demo-day/)
 * Techstars
-	* Austin 2015
-	* Boston 2015
-	* Boulder 2015
-	* Chicago 2015
-	* Cloud San Antonio 2015
-	* Disney Accelerator 2015
-	* Mobility 2015
-	* NYC Winter 2015
-	* NYC Fall 2015
-	* Seattle 2015
-	* Spring Accelerator 2015
+	* Austin 2015 - [Companies](http://www.techstars.com/content/blog/techstars-austin-demo-day-2015/)
+	* Boston 2015 - [Companies](http://www.techstars.com/content/blog/announcing-the-boston-class-of-2015/)
+	* Boulder 2015 - [Companies](http://www.techstars.com/content/blog/announcing-the-2015-boulder-class/)
+	* Chicago 2015 - [Companies](http://www.techstars.com/content/blog/introducing-the-10-companies-for-chicago-2015-class/)
+	* Cloud San Antonio 2015 - [Companies](http://www.techstars.com/content/blog/techstars-cloud-2015-demo-day/)
+	* Disney Accelerator 2015 - [Companies](http://disneyaccelerator.com/companies/)
+	* Mobility 2015 - [Companies](http://www.techstars.com/content/blog/announcing-the-first-class-of-techstars-mobility-driven-by-detroit/)
+	* NYC Winter 2015 - [Companies](http://www.techstars.com/content/blog/12-companies-for-winter-2015-session-in-nyc/)
+	* NYC Fall 2015 - [Companies](http://www.techstars.com/content/blog/meet-14-new-techstars-companies-from-fall-2015-nyc-class/)
+	* Seattle 2015 - [Companies](http://www.techstars.com/content/blog/meet-the-seattle-techstars-class-of-2015/)
+	* Spring Accelerator 2015 - [Companies](http://sprintaccel.com/class-of-2015/)
 * U Chicago NVC
-	* 2015 Accelerated companies
+	* 2015 Accelerated companies - [Companies](http://research.chicagobooth.edu/nvc/portfolio)
 * Alchemist
-	* Class VIII
-	* Class IX
-	* Class X
+	* Class VIII - [Companies](http://alchemistaccelerator.com/portfolio/)
+	* Class IX - [Companies](http://alchemistaccelerator.com/portfolio/)
+	* Class X - [Companies](http://alchemistaccelerator.com/portfolio/)
 * 500 Startups
-	* SF Batch 12
-	* SF Batch 14
-	* MV Batch 13
+	* SF Batch 12 - [Companies](http://500.co/500-startups-announces-batch-12-in-san-francisco/)
+	* SF Batch 14 - [Companies](http://500.co/500-startups-announces-batch-14-in-san-francisco/)
+	* MV Batch 13 - [Companies](http://500.co/mountain-view-batch-13/)
 * Capital Innovators
+	* Spring 2015 - [Companies](http://capitalinnovators.com/blog/meet-spring-15-class/)
+	* Fall 2015 - [Companies](http://eqstl.com/meet-the-5-new-startups-accepted-into-capital-innovators-fall-class/)
 
 ### Accelerators & Batches considered but not included:
 * Angelpad Batch 8 - Accelerator started in 2014. Demo Day was in Jan, 2015
 * MuckerLab - Could not find information on companies in batches
+* Techstars Barclays Fin Tech Accelerator - The accelerator by design was focused on a single industry so was excluded.
 * StartX - Could not find information on companies in batches
 * Amplify LA - Could not find information on companies in batches
 * 500 Startups Batch 11 - Accelerator started at the end of 2014.
