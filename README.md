@@ -2,9 +2,8 @@ List of the top U.S. accelerators [here](http://techcrunch.com/2015/03/17/these-
 
 ## Accelerators & Batches Analyzed
 * yCombinator
-	* Winter 2015 - Companies [Part 1](http://techcrunch.com/2015/03/23/here-are-the-companies-that-presented-at-y-combinator-demo-day-day-1/), [Part 2](http://techcrunch.com/2015/03/24/y-combinator-demos/). 
-	* Summer 2015 - Companies [Part 1](http://techcrunch.com/2015/08/18/hardware-demo-day/), [Part 2](http://techcrunch.com/2015/08/19/here-are-the-52-startups-that-launched-at-y-combinator-summer-2015-demo-day-2/) Others: [Locent](http://techcrunch.com/2015/07/31/yc-backed-locent-lets-businesses-sell-products-via-text-message/), [Prayas Analytics](http://blog.ycombinator.com/prayas-analytics-yc-s15-powers-a-slash-b-testing-for-brick-and-mortar-stores), [StyleBee](http://blog.ycombinator.com/stylebee-yc-s15-sends-beauty-and-grooming-services-to-you-anytime-anywhere). 
-		* SO to [Mattermark](http://mattermark.com), I would've missed the last 3 if not for them.
+	* Winter 2015 - Companies [Part 1](http://techcrunch.com/2015/03/23/here-are-the-companies-that-presented-at-y-combinator-demo-day-day-1/), [Part 2](http://techcrunch.com/2015/03/24/y-combinator-demos/). Others: [Bettir](http://techcrunch.com/2014/12/08/bettir-wants-to-chat-with-you-about-your-blood-pressure/)*, [YesGraph](http://techcrunch.com/2015/02/27/yc-backed-yesgraph-raises-a-million-to-build-a-better-referral-system-for-mobile-apps/)*
+	* Summer 2015 - Companies [Part 1](http://techcrunch.com/2015/08/18/hardware-demo-day/), [Part 2](http://techcrunch.com/2015/08/19/here-are-the-52-startups-that-launched-at-y-combinator-summer-2015-demo-day-2/) Others: [Locent](http://techcrunch.com/2015/07/31/yc-backed-locent-lets-businesses-sell-products-via-text-message/)*, [Prayas Analytics](http://blog.ycombinator.com/prayas-analytics-yc-s15-powers-a-slash-b-testing-for-brick-and-mortar-stores)*, [StyleBee](http://blog.ycombinator.com/stylebee-yc-s15-sends-beauty-and-grooming-services-to-you-anytime-anywhere)*. 
 * Angelpad
 	* Batch 9 - [Companies](http://techcrunch.com/2015/11/11/angelpad-shows-off-13-new-startups-at-sf-demo-day/)
 * Techstars
@@ -32,6 +31,8 @@ List of the top U.S. accelerators [here](http://techcrunch.com/2015/03/17/these-
 * Capital Innovators
 	* Spring 2015 - [Companies](http://capitalinnovators.com/blog/meet-spring-15-class/)
 	* Fall 2015 - [Companies](http://eqstl.com/meet-the-5-new-startups-accepted-into-capital-innovators-fall-class/)
+
+\* SO to [Mattermark](http://mattermark.com), I would've missed the companies with the asterisks if not for them!
 
 ### Accelerators & Batches considered but not included:
 * Angelpad Batch 8 - Accelerator started in 2014. Demo Day was on Jan, 2015
