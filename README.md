@@ -33,10 +33,10 @@ List of the top U.S. accelerators [here](http://techcrunch.com/2015/03/17/these-
 	* Spring 2015 - [Companies](http://capitalinnovators.com/blog/meet-spring-15-class/)
 	* Fall 2015 - [Companies](http://eqstl.com/meet-the-5-new-startups-accepted-into-capital-innovators-fall-class/)
 
-\* SO to [Mattermark](http://mattermark.com), I would've missed the companies with the asterisks if not for them!
+\* SO to [Mattermark](http://mattermark.com), I would've missed the companies with asterisks if not for them!
 
 ### Accelerators & Batches considered but not included:
-* Angelpad Batch 8 - Accelerator started in 2014. Demo Day was on Jan, 2015
+* Angelpad Batch 8 - Accelerator started in 2014. Demo Day was in Jan, 2015
 * MuckerLab - Could not find information on companies in batches
 * StartX - Could not find information on companies in batches
 * Amplify LA - Could not find information on companies in batches
