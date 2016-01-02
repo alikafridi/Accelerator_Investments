@@ -19,6 +19,7 @@ List of the top U.S. accelerators [here](http://techcrunch.com/2015/03/17/these-
 	* NYC Fall 2015 - [Companies](http://www.techstars.com/content/blog/meet-14-new-techstars-companies-from-fall-2015-nyc-class/)
 	* Seattle 2015 - [Companies](http://www.techstars.com/content/blog/meet-the-seattle-techstars-class-of-2015/)
 	* Spring Accelerator 2015 - [Companies](http://sprintaccel.com/class-of-2015/) - *Note: Accelerator focused on healthcare*
+	* Qualcomm Accelerator 2015 - [Companies](http://www.techstars.com/content/blog/introducing-the-first-class-of-the-qualcomm-robotics-accelerator/) - *Note: Accelerator focused on robotics*
 * U Chicago NVC
 	* 2015 Finalist companies - [Companies](http://research.chicagobooth.edu/nvc/portfolio)
 * Alchemist
@@ -40,5 +41,6 @@ List of the top U.S. accelerators [here](http://techcrunch.com/2015/03/17/these-
 * MuckerLab - Could not find information on companies in batches
 * StartX - Could not find information on companies in batches
 * Amplify LA - Could not find information on companies in batches
+* Techstars R/GA Accelerator - Accelerator started in 2014. Teams were announced Oct. '14
 * 500 Startups Batch 11 - Accelerator started at the end of 2014.
 * DreamIT - Could not find information on companies in batches
